@@ -12,7 +12,7 @@
 %%% a copy of the New BSD license with this software. If not, it can be
 %%% retrieved from: http://www.opensource.org/licenses/bsd-license.php
 %%%-------------------------------------------------------------------
--module(ex1).
+-module(getopt_long_help).
 -author('juanjo@comellas.org').
 
 main([]) ->
